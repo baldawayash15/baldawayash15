@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋🏻, I'm Yash Baldawa</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack web developer from India</h3>
 
 - 🔭 I’m currently working on **Next.js**
 
