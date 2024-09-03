@@ -1,4 +1,4 @@
-<h1 align="center">Hello there <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">, I'm Yash Baldawa</h1>
+<h1 align="center">Hello there 👋🏻, I'm Yash Baldawa</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Next.js**
