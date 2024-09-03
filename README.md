@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yash Baldawa</h1>
+<h1 align="center">Hi <span class="wave">👋</span>, I'm Yash Baldawa</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Next.js**, **WordPress**, **PHP**, **HTML** and **CSS**
+- 🔭 I’m currently working on **Next.js**
 
 - 🌱 I’m currently learning **Astro.js, Vue.js**
 
